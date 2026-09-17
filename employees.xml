@@ -1,0 +1,14 @@
+<employees>
+    <employee>
+        <id>101</id>
+        <first_name>Alice</first_name>
+        <last_name>Smith</last_name>
+        <email>alice@example.com</email>
+    </employee>
+    <employee>
+        <id>102</id>
+        <first_name>Bob</first_name>
+        <last_name>Jones</last_name>
+        <email>bob@example.com</email>
+    </employee>
+</employees>
